@@ -1,9 +1,10 @@
-* {
+body {
     background-color: bisque;
     font-family: 'Times New Roman', Times, serif;
+    color: #333; /* Adds default text color for better readability */
 }
 
 img {
-    height: 300px;
+    max-height: 300px;
     width: auto;
 }
